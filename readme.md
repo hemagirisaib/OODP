@@ -1,4 +1,4 @@
-# OODP
+# OODP OBJECT ORIENTED PROGRAMMING
 
 ## General Information
 This course, Object Oriented Design & Programming (OODP), will introduce you to the concepts of object-oriented programming, including its four design pillars: Polymorphism, Inheritance, Encapsulation, and Abstraction. It will also cover advanced programming concepts such as recursion and higher-order functions.
